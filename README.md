@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SohelyDas/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SohelyDas/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/SohelyDas/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/SohelyDas/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/SohelyDas/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SohelyDas/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/SohelyDas/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/SohelyDas/DSA/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/SohelyDas/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/SohelyDas/DSA/tree/master/0202-happy-number) |
+| [0904-fruit-into-baskets](https://github.com/SohelyDas/DSA/tree/master/0904-fruit-into-baskets) |
 ## Linked List
 |  |
 | ------- |
