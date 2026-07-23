@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/SohelyDas/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SohelyDas/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/SohelyDas/DSA/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/SohelyDas/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SohelyDas/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/SohelyDas/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/SohelyDas/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SohelyDas/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/SohelyDas/DSA/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/SohelyDas/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/SohelyDas/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SohelyDas/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/SohelyDas/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/SohelyDas/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/SohelyDas/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/SohelyDas/DSA/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
@@ -74,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/SohelyDas/DSA/tree/master/0844-backspace-string-compare) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SohelyDas/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
